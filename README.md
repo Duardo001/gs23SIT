@@ -2,8 +2,7 @@
 
 ## Integrantes
 
-RM 96042 Eduardo Santos Neto
-
+RM 96042 Eduardo Santos Neto\n
 RM 95533 Mariana Mayumi Kubo
 
 ## Database
