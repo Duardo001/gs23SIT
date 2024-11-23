@@ -1,4 +1,9 @@
-# E-commerce
+# GS 3 SIT
+
+## Integrantes
+
+RM 96042 Eduardo Santos Neto
+RM 95533 Mariana Mayumi Kubo
 
 ## Database
 
